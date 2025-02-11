@@ -355,7 +355,7 @@ Como a rota de criação de usuário é protegida com autenticação, foi criado
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/FelipeCourse">
+      <a href="https://github.com/felipe-dr">
         <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/62888625?s=96&v=4" width="100px;" alt="Avatar do autor" />
         <br />
         <sub>
